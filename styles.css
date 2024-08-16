@@ -1,0 +1,46 @@
+h3{
+    padding: 0%;
+    margin: 0%;
+    font-size: 22px;
+    font-family: fantasy;
+    border: 5px none transparent; 
+}
+
+img{
+    width: 324px; /* Image with slight bigger width to create pop-out effect */
+    height: 300px;
+    border: 5px none transparent;
+}
+
+/* Note that the size should be fixed // DO not use FLEXBOX */
+.card{
+    width: 300px;
+    border: 1px solid black;
+    background-color: gray;
+    padding-top: px;
+
+
+}
+
+
+.info{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 13px
+}
+
+
+.italic{
+    font-style:italic;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+span{
+    font-weight: bold;
+}
