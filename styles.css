@@ -10,8 +10,8 @@ body{
 h3{
     padding: 5px 0px 0px 10px; /*shorthand T R B L*/
     margin: 0%;
-    margin-bottom: -25px; /* The negative value allows the element below to overlap a little for the pop-up effect */
-    font-size: 38px;
+    margin-bottom: -80px; /* The negative value allows the element below to overlap a little for the pop-up effect */
+    font-size: 25px;
     font-family: Cinzel, 'Lucida Sans Unicode', Arial, sans-serif; /*Google Font*/
     border: 5px none transparent;  /* size solid/none color */
     color: white;
@@ -24,7 +24,7 @@ h3{
 /* and saved it with that as transparency to create the pop-out effect. If thats not allowed, */
 /* I will revert to the original image and do a 300 x 300px */
 img{
-    width: 305px; 
+    width: 295px; 
     height: 300px;
     border: 1px none transparent; /* once finished update solid to none and transparent */
     padding: 0px 10px;
@@ -41,6 +41,7 @@ img{
     box-shadow: 15px 10px 15px black;
     margin: auto; /*Centering the card container for aesthetics*/
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 /* Container for the information*/
