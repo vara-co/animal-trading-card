@@ -1,46 +1,68 @@
+/* To add background to my webpage*/
+body{
+    background-image: url("Resources/AnimalTradingCard_bkgnd.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* A google font was used for the Animal Name */
+/* Documentation was followed using a <link> tag in the HTML file */
 h3{
-    padding: 0%;
+    padding: 5px 0px 0px 10px; /*shorthand T R B L*/
     margin: 0%;
-    font-size: 22px;
-    font-family: fantasy;
-    border: 5px none transparent; 
+    margin-bottom: -25px; /* The negative value allows the element below to overlap a little for the pop-up effect */
+    font-size: 38px;
+    font-family: Cinzel, 'Lucida Sans Unicode', Arial, sans-serif; /*Google Font*/
+    border: 5px none transparent;  /* size solid/none color */
+    color: white;
+    text-shadow: 1px 2px 2px #000000;
 }
 
+/* Image used with relative URLs */
+/* Note that my image's width is slightly bigger, because I wanted to create a pop-out effect */
+/* The border is actually further out, I edited the image and created a smaller frame and errased around the antlers */
+/* and saved it with that as transparency to create the pop-out effect. If thats not allowed, */
+/* I will revert to the original image and do a 300 x 300px */
 img{
-    width: 324px; /* Image with slight bigger width to create pop-out effect */
+    width: 305px; 
     height: 300px;
-    border: 5px none transparent;
+    border: 1px none transparent; /* once finished update solid to none and transparent */
+    padding: 0px 10px;
 }
 
-/* Note that the size should be fixed // DO not use FLEXBOX */
+/* Container for the card layout */
+/* Note that the size is fixed // DO not use FLEXBOX */
 .card{
     width: 300px;
     border: 1px solid black;
-    background-color: gray;
-    padding-top: px;
-
-
+    border-radius: 15px;
+    background-color: #8192a8;
+    padding: 0%;
+    box-shadow: 15px 10px 15px black;
+    margin: auto; /*Centering the card container for aesthetics*/
+    margin-top: 5%;
 }
 
-
+/* Container for the information*/
 .info{
     border: 1px solid black;
     margin: 10px;
-    padding: 10px;
-    font-size: 13px
+    padding: 2px 10px 2px 10px; /*shorthand T R B L*/
 }
 
-
+/* class for the italic paragraph element */
 .italic{
     font-style:italic;
 }
+
+/* UL list element */
 ul{
-    list-style-type: none;
+    list-style-type: none; /* Removes the bullet points */
     margin: 0%;
     padding: 0%;
-
 }
 
+/* Span element to bold the labels */
 span{
     font-weight: bold;
 }
