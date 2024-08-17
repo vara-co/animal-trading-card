@@ -10,6 +10,8 @@ by Laura Vara</h2><br/>
 
 **Live Animal Trading Card website:** https://vara-co.github.io/animal-trading-card/ 
 
+NOTE: An extra html file had to be created in order to deploy the live webpage via github. Thus the one with the name index.html which is identical to card.html
+
 <h2>Index</h2><br/>
 1. Content of the repository<br/>
 2. Instructions for the Project<br/>
