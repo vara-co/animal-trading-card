@@ -73,7 +73,7 @@ You are to replicate this image and add a few things after all requirements have
 
 <h2>Result</h2>
 
-![ATC_webpageResult](https://github.com/user-attachments/assets/bd8a0c63-3841-4d9f-86ba-baf7c152b60f)
+![image](https://github.com/user-attachments/assets/b9c81bfb-4ae7-444a-816c-d65a8d6858b9)
 
 <h2>References for the Animal Trading Card Project</h2><br/>
 Most of what's in this challenge, was covered in class or during the lessons. However, resources that weren't covered will be referenced here.<br/>
