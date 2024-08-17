@@ -4,7 +4,9 @@ Project 1: Animal Trading Card</h1>
 <br/>
 by Laura Vara</h2><br/>
 
-![git_AnimalTradingCard_title01](https://github.com/user-attachments/assets/405f6b6b-0a47-4707-a764-3a635c59fcee)
+![git_AnimalTradingCard_title02](https://github.com/user-attachments/assets/129b38a2-eff3-4d84-baf9-96e1f318b4bf)
+
+
 
 
 
