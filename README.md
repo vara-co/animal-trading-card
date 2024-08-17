@@ -4,7 +4,8 @@ Project 1: Animal Trading Card</h1>
 <br/>
 by Laura Vara</h2><br/>
 
-![git_AnimalTradingCard_title01](https://github.com/user-attachments/assets/5224ba59-f964-4f47-a1e1-f998e0ca1c2e)
+![git_AnimalTradingCard_title01](https://github.com/user-attachments/assets/405f6b6b-0a47-4707-a764-3a635c59fcee)
+
 
 
 **Live Animal Trading Card website:** https://vara-co.github.io/animal-trading-card/ 
@@ -37,24 +38,31 @@ The instructions for this challenge are divided into the following subsections:
 
 <br/>
 
-<h2>Part 2: Gather and Plot More Data</h2>
+<h2>Result</h2>
 
+![ATC_webpageResult](https://github.com/user-attachments/assets/bd8a0c63-3841-4d9f-86ba-baf7c152b60f)
 
 <h2>References for the Animal Trading Card Project</h2><br/>
 Most of what's in this challenge, was covered in class or during the lessons. However, resources that weren't covered will be referenced here.<br/>
+
 - Background CSS size: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images 
 - Center align: https://www.w3schools.com/css/tryit.asp?filename=trycss_align_padding2 
 - Center align elements: https://www.w3schools.com/css/css_align.asp 
-- List editing so margin could be adjusted and bullet points removed: https://www.w3schools.com/css/css_list.asp 
-
-
+- List editing so margin could be adjusted and bullet points removed: https://www.w3schools.com/css/css_list.asp
+- Google font types: https://fonts.google.com/selection
+- Google font APIs Documentation: https://developers.google.com/fonts/docs/getting_started
+- Google font "Cinzel" used for the Animal name: https://fonts.google.com/specimen/Cinzel
 - W3 Schools color picker: https://www.w3schools.com/colors/colors_picker.asp
 - H3 and image overlap on CSS: https://stackoverflow.com/questions/270493/how-would-you-make-two-divs-overlap
+- Shorthand borders: https://www.w3schools.com/css/css_border_shorthand.asp
+- Box Shadow: https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+- Padding: https://developer.mozilla.org/en-US/docs/Web/CSS/padding 
 
-
-
-- Legend creation:
-  - h
+- Caribou References:
+  - Image: https://pixabay.com/illustrations/ai-generated-caribou-winter-8634005/ 
+  - Webpage background created using Night Cafe Studio: https://creator.nightcafe.studio/
+  - Caribou Information: https://www.adfg.alaska.gov/index.cfm?adfg=caribou.printerfriendly#:~:text=Caribou%20have%20large%2C%20concave%20hoofs,which%20both%20sexes%20grow%20antlers.
+  - ECOS Environmental Conservation Online System (Caribou): https://ecos.fws.gov/ecp/species/4618#:~:text=The%20average%20lifespan%20for%20caribou,calves%20typically%20survive%20to%20adulthood.
 
     
 ----------------------------------------------------------------------------------------------
